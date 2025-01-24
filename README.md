@@ -9,6 +9,8 @@ I’m always on the lookout for ways to improve, so if you notice anything odd o
 
 On a personal note, one of my goals is to get better at C++.
 
+![Black Cats are best Cats](7990B5D9D263C1DE80E4119A466770D7.jpg)
+
 <!--
 **YuanhengZ/YuanhengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
