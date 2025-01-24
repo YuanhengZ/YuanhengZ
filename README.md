@@ -1,4 +1,13 @@
-## Hi there 👋
+# Read YuanhengZ
+Welcome to the profile README for YuanhengZ's developer account at expandAI!
+
+If you're here, chances are you're either my current co-worker or about to become one.
+
+I primarily code in Python (about 80% of the time) with the remaining 20% dedicated to other tools of the trade. I’m a big fan of JetBrains IDEs and passionate about maintaining clean, well-structured code. That means I enjoy spending time on refactoring, writing tests, and creating thorough documentation.
+
+I’m always on the lookout for ways to improve, so if you notice anything odd or could be better in my code, please don’t hesitate to let me know!
+
+On a personal note, one of my goals is to get better at C++.
 
 <!--
 **YuanhengZ/YuanhengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
